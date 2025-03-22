@@ -1,2 +1,5 @@
-# clust-omics
-Clustering of single-cell proteomics data
+# Clustering application example
+This is the repository for the week 10 lab
+
+
+
