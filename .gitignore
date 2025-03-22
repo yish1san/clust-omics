@@ -1,0 +1,4 @@
+*.html
+demo_files/
+demo_files/*
+*.Rproj
